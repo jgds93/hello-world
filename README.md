@@ -1,2 +1,4 @@
-# hello-world
-simple project
+<?php
+echo "hello this is git";
+
+?>
